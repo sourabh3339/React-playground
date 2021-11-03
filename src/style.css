@@ -1,0 +1,14 @@
+/* html{
+    font-size:14px;
+}
+
+.parent{
+    width:100%;
+    font-size: 12px;
+    background-color:#FFFF;
+}
+
+button{
+    font-size:10rem;
+} */
+@import "https://cdn.jsdelivr.net/npm/semantic-ui@2/dist/semantic.min.css"
